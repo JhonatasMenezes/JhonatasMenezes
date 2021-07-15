@@ -1,14 +1,23 @@
+#Mini-project for to see the wheater from the region you live.
+#First, import this libs
+
+#for the window
 import tkinter as tk
+#for the wheater
 import requests as rq
 from bs4 import BeautifulSoup
 
+#Search -> 'Wheater in [your region]' -> search on google
 search = 'Weather in São Bernardo do Campo'
 url = f'https://www.google.com/search?&q={search}'
 
+#climate search process 
 r = rq.get(url)
+#get the wheater for the html of page
 s = BeautifulSoup(r.text,'html.parser')
 update = s.find('div',class_='BNeawe').text
 
+#make a window for show it
 class MinhaGUI:
     def __init__(self):
         self.main_window = tk.Tk()
