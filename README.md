@@ -3,7 +3,7 @@
 ## A Software & Database Developer in process... LOADING ♾️%
 
 I'm make some projects on **Python 3** 🐍 and learning important frameworks as Django, libs as PySimpleGUI and more.
-Check these stuff [here](https://github.com/JhonatasMenezes/Projetos_Python)
+Check these stuff [here.](https://github.com/JhonatasMenezes/Projetos_Python)
 
 
 
