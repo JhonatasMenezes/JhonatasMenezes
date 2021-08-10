@@ -1,6 +1,18 @@
 # Jhonatas Menezes
 
 ## A Software & Database Developer in process... LOADING ♾️%
+---
+I was recently worked in a well project, that actually, consisted on create 8 projects being 4 for backend and 4 for their GUI's.
+Ther are:
+* [Simulador de Dados](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/simulador_de_dado.py) 🎲
+* [Escolha um Número](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/escolha_um_numero.py) 🔢
+* [Decida por Mim](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/decida_por_mim.py) 💬
+* [Jogo de Aventura]()
+
+Developed in Python3 and lib PySimpleGUI.
+I hope you like that! Enjoy the repo [here.]()
+
+---
 
 I'm make some projects on **Python 3** 🐍 and learning important frameworks as Django, libs as PySimpleGUI and more.
 Check all them [here.](https://github.com/JhonatasMenezes/Projetos_Python)
