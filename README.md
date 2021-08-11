@@ -7,17 +7,20 @@ Ther are:
 * [Simulador de Dados](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/simulador_de_dado.py) 🎲
 * [Escolha um Número](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/escolha_um_numero.py) 🔢
 * [Decida por Mim](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/decida_por_mim.py) 💬
-* [Jogo de Aventura]()
+* [Jogo de Aventura](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/jogo_de_aventura.py) 🚀
 
-Developed in Python3 and lib PySimpleGUI.
-I hope you like that! Enjoy the repo [here.]()
+Note: the last game are really insteresting, chek it there.
+
+
+Developed in Python3 and lib PySimpleGUI. 👨‍💻
+
+I'm say about the codes and experienc in the README, so you can better got it.
+I hope you like that! Enjoy the repo [here.](https://github.com/JhonatasMenezes/8ProjetosemPython)
 
 ---
 
-I'm make some projects on **Python 3** 🐍 and learning important frameworks as Django, libs as PySimpleGUI and more.
+I'm make some projects on **Python 3** 🐍 and learning important frameworks as Django, Flask, libs as PySimpleGUI, Tkinter and more.
 Check all them [here.](https://github.com/JhonatasMenezes/Projetos_Python)
-
-
 
 ---
 I created a complete Database using Oracle 18c with Pl/SQL. See it [here.](https://github.com/JhonatasMenezes/Projeto_FullDataBase_Mercado)
