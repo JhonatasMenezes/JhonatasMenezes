@@ -9,7 +9,7 @@ Ther are:
 * [Decida por Mim](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/decida_por_mim.py) 💬
 * [Jogo de Aventura](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/jogo_de_aventura.py) 🚀
 
-Note: the last game are really insteresting, chek it there.
+Note: the last game are really insteresting, chek it in the repo.
 
 
 Developed in Python3 and lib PySimpleGUI. 👨‍💻
