@@ -1,5 +1,3 @@
-[![Top lnaguages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatasMenezes&hide=Notebook)](github.com/jhonatasmenezes/Scripts-de-Aulas)
-
 # Jhonatas Menezes
 
 ## A Software & Database Developer in process... LOADING ♾️%
