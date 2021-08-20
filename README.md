@@ -31,3 +31,7 @@ Check this doc [here.](https://github.com/JhonatasMenezes/Projeto_FullDataBase_M
 
 --- 
 ### I'LL BE ADDING NEW THINGS SOON! ✨
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasmenezes)](https://github.com/jhonatasmenezes)
+
