@@ -1,8 +1,13 @@
 # Jhonatas Menezes
 
 ## A Software & Database Developer in process... LOADING ♾️%
+
+I'm learning about AI with NEAT lib in Python. There is my first project/contact with AI on a game called Flappy Bird. Check it [here.](https://github.com/JhonatasMenezes/Projetos_Python/tree/main/projetos_IA/flappy_bird)
+
+I was also working in the refactor of above project. Check it [here.](https://github.com/JhonatasMenezes/Projetos_Python/tree/flappy_bird_refactor/projetos_IA/flappy_bird) It is another branch. 
+
 ---
-I was recently worked in a well project, that actually, consisted on create 8 projects being 4 for backend and 4 for their GUI's.
+I worked in a well project, that actually, consisted on create 8 projects being 4 for backend and 4 for their GUI's.
 Ther are:
 * [Simulador de Dados](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/simulador_de_dado.py) 🎲
 * [Escolha um Número](https://github.com/JhonatasMenezes/8ProjetosemPython/blob/main/escolha_um_numero.py) 🔢
