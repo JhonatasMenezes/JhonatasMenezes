@@ -1,7 +1,10 @@
 # Jhonatas Menezes
 
-## A Software & Database Developer in process... LOADING ♾️%
+## A Software & Database Developer always in process... LOADING ♾️%
 
+I'm adding my certification in a repo. If you want to see it, here is the [link](https://github.com/JhonatasMenezes/Certificados).
+
+---
 I'm learning about AI with NEAT lib in Python. There is my first project/contact with AI on a game called Flappy Bird. Check it [here.](https://github.com/JhonatasMenezes/Projetos_Python/tree/main/projetos_IA/flappy_bird)
 
 I was also working in to refactor the above project. Check it [here.](https://github.com/JhonatasMenezes/Projetos_Python/tree/flappy_bird_refactor/projetos_IA/flappy_bird) It is another branch. 
