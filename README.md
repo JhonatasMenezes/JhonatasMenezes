@@ -6,7 +6,7 @@ I'm adding my certifications in a repo. If you want to see it, here is the [link
 
 ---
 I'm learning about AI with NEAT lib in Python. There is my first project/contact with AI on a game called Flappy Bird. Check it [here.](https://github.com/JhonatasMenezes/Projetos_Python/tree/main/projetos_IA/flappy_bird)
-I'm also learning how to refactor a code and working in to do this the above project. 
+I'm also learning how to refactor a code and working to do this in the above project. 
 
 ---
 I worked in a well project, that actually, consisted on create 8 projects being 4 for backend and 4 for their GUI's.
