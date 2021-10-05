@@ -26,7 +26,7 @@ I hope you like that! Enjoy the repo [here.](https://github.com/JhonatasMenezes/
 
 ---
 
-I'm make some projects on **Python 3** 🐍 and learning important frameworks as Django, Flask, libs as PySimpleGUI, Tkinter and more.
+I'm make some projects on **Python 3** 🐍 and I'm learning important frameworks as Django, Flask, libs as PySimpleGUI, Tkinter and more.
 Check all them [here.](https://github.com/JhonatasMenezes/Projetos_Python)
 
 ---
