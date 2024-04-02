@@ -1,6 +1,6 @@
 # Jhonatas Menezes
 
-## I'm a Python Developer and a Data Engineer ♾️%
+## I'm a Python Developer and a Data Engineer 
 
 I'm adding my new certifications in a repo. If you want to see it, here is the [link](https://github.com/JhonatasMenezes/Certificados).
 
