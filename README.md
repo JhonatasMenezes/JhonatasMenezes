@@ -2,7 +2,7 @@
 
 ## I'm a Python Developer and a Data Engineer ♾️%
 
-I'm adding my certifications in a repo. If you want to see it, here is the [link](https://github.com/JhonatasMenezes/Certificados).
+I'm adding my new certifications in a repo. If you want to see it, here is the [link](https://github.com/JhonatasMenezes/Certificados).
 
 ---
 I'm learning about AI with NEAT lib in Python. There is my first project/contact with AI on a game called Flappy Bird. Check it [here.](https://github.com/JhonatasMenezes/Projetos_Python/tree/main/projetos_IA/flappy_bird)
