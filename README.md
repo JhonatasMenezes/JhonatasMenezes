@@ -1,7 +1,15 @@
 # Jhonatas Menezes
 
-## I'm a Python Developer and a Data Engineer 
+## I'm a Backend Developer and a Data Engineer 
+---
+I'd attended DIO's last bootcamp of Python AI Backend Development and that was great. I created a repository with all productions, 
+challenges and projects developed all over the course. I hope that be interesting and it can show you some of my skills learned in this time.
 
+[Coding the Future - Python AI Backend Developer](https://github.com/JhonatasMenezes/bootcamp_python_dio)  
+  
+![Certificated!](https://github.com/JhonatasMenezes/Certificados/blob/main/Bootcamp%20DIO%20Python%20AI.webp)
+
+---
 I'm adding my new certifications in a repo. If you want to see it, here is the [link](https://github.com/JhonatasMenezes/Certificados).
 
 ---
@@ -21,7 +29,7 @@ Note: the last game are really insteresting, chek it in the repo.
 
 Developed in Python3 and lib PySimpleGUI. 👨‍💻
 
-I'm say about the codes and experienc in the README, so you can better got it.
+I'm say about the codes and experience in the README, so you can better got it.
 I hope you like that! Enjoy the repo [here.](https://github.com/JhonatasMenezes/8ProjetosemPython)
 
 ---
