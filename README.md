@@ -3,7 +3,7 @@
 ## I'm a Backend Developer and a Data Engineer 
 ---
 I'd attended DIO's last bootcamp of Python AI Backend Development and that was great. I created a repository with all productions, 
-challenges and projects developed all over the course. I hope that be interesting and it can show you some of my skills learned in this time.
+challenges and projects developed all over the course. I hope it's interesting and it can show you some of my skills learned in this time.
 
 [Coding the Future - Python AI Backend Developer](https://github.com/JhonatasMenezes/bootcamp_python_dio)  
   
